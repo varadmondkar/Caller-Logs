@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caller Logs</string>
+    <string name="foreground_notification_title">Call Detection Service</string>
+    <string name="foreground_notification_description">Detecting incoming calls…</string>
+    <string name="call_detection_channel_id" translatable="false">CallDetectionServiceChannel</string>
+    <string name="call_detection_channel_name">Call Detection Service Channel</string>
+</resources>
